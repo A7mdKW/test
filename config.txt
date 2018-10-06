@@ -1,4 +1,4 @@
-token=NDk3MTI1OTExNDk0MzkzODU2.DpmCdw.H9HWafB52DiXRwagg4_MUWEmbjE
+token=NDU5Njk0NzczMzUyMTM2NzA3.Dpobfw.aBKNlov6MeX-sWsA60-od9Yykb4
 owner=351472610732670976
 prefix=A
 game=ثق بنفسك فكلام الناس لاينتهي .

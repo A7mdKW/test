@@ -1,6 +1,6 @@
 token=NDU5Njk0NzczMzUyMTM2NzA3.Dpobfw.aBKNlov6MeX-sWsA60-od9Yykb4
 owner=351472610732670976
 prefix=A
-game=ثق بنفسك فكلام الناس لاينتهي .
-stayinchannel=true
-songinstatus=true
+game=Zzz .
+stayinchannel=false
+songinstatus=false

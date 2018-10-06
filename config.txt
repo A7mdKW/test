@@ -4,3 +4,4 @@ prefix=A
 game=Zzz .
 stayinchannel=false
 songinstatus=false
+status=IDLE

@@ -1,4 +1,4 @@
-token=NDU5Njk0NzczMzUyMTM2NzA3.Dpobfw.aBKNlov6MeX-sWsA60-od9Yykb4
+token=NDU5Njk0NzczMzUyMTM2NzA3.DqKrxw.lD6oR739z6R7WcbzuKKNs5WvnY4
 owner=351472610732670976
 prefix=A
 game=Zzz .

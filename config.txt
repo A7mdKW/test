@@ -1,7 +1,4 @@
-token=NDU5Njk0NzczMzUyMTM2NzA3.DqKrxw.lD6oR739z6R7WcbzuKKNs5WvnY4
-owner=351472610732670976
+token
+
 prefix=A
-game=Zzz .
-stayinchannel=false
-songinstatus=false
-status=IDLE
+ams=I

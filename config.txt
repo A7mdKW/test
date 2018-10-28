@@ -1,4 +1,3 @@
-token
-
-prefix=A
-ams=I
+token=NDk3OTA5NzgxNDI4Njk5MTQ4.DrdWXQ.uvaLRtff4XPtPosG-K5f4tghEvQ
+setgame streaming a7madkw ProGames
+prefix=+

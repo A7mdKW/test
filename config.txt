@@ -1,4 +1,4 @@
 token=NDk3OTA5NzgxNDI4Njk5MTQ4.DrdWXQ.uvaLRtff4XPtPosG-K5f4tghEvQ
 owner=351472610732670976
-setgame streaming a7madkw ProGames
+setgame=ProGames
 prefix=+

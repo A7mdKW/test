@@ -1,4 +1,4 @@
-token=NDk3OTA5NzgxNDI4Njk5MTQ4.DrdWXQ.uvaLRtff4XPtPosG-K5f4tghEvQ
+token=NDk3OTA5NzgxNDI4Njk5MTQ4.DvxAmQ.2To_FvllDomxAJyF4hMogXBGFME
 owner=351472610732670976
-setgame=ProGames
-prefix=+
+setgame=Deluxe    
+prefix=-
